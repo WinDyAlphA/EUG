@@ -27,13 +27,6 @@ python EUG.py noms.txt
 
 3. Le script générera un fichier `usernames.txt` contenant toutes les combinaisons possibles d'usernames.
 
-## Caractéristiques
-
-- Génération de multiples formats d'usernames
-- Élimination automatique des doublons
-- Tri alphabétique des résultats
-- Gestion des erreurs de fichiers
-- Sortie triée et dédupliquée
 
 ## Cas d'utilisation
 
